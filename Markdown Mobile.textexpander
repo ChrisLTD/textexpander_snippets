@@ -22,6 +22,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>Link</string>
+			<key>lastUsed</key>
+			<date>2013-04-07T22:50:24Z</date>
 			<key>modificationDate</key>
 			<date>2013-04-07T18:33:58Z</date>
 			<key>plainText</key>
@@ -29,7 +31,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>uuidString</key>
 			<string>89EC82C4-1C86-4D76-A7B1-C1C612A2B63B</string>
 		</dict>
@@ -88,10 +90,12 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>Link from Clipboard</string>
+			<key>lastUsed</key>
+			<date>2013-04-07T22:50:29Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-07T18:34:14Z</date>
+			<date>2013-04-07T22:51:06Z</date>
 			<key>plainText</key>
-			<string>[#|](%clipboard)</string>
+			<string>[%|](%clipboard)</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
@@ -111,9 +115,9 @@
 			<key>label</key>
 			<string>Image from Clipboard (src)</string>
 			<key>modificationDate</key>
-			<date>2013-04-07T18:38:17Z</date>
+			<date>2013-04-07T22:51:08Z</date>
 			<key>plainText</key>
-			<string>![#|](%clipboard)</string>
+			<string>![%|](%clipboard)</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
