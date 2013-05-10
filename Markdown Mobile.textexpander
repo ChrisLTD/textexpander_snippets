@@ -13,7 +13,7 @@
 	<array>
 		<dict>
 			<key>abbreviation</key>
-			<string>,,mdl</string>
+			<string>xmdl</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -25,19 +25,19 @@
 			<key>lastUsed</key>
 			<date>2013-04-07T22:50:24Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-07T18:33:58Z</date>
+			<date>2013-05-10T01:30:36Z</date>
 			<key>plainText</key>
 			<string>[%|]()</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>89EC82C4-1C86-4D76-A7B1-C1C612A2B63B</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,,mdi</string>
+			<string>xmdi</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -47,7 +47,7 @@
 			<key>label</key>
 			<string>Image</string>
 			<key>modificationDate</key>
-			<date>2013-04-07T18:34:04Z</date>
+			<date>2013-05-10T01:30:39Z</date>
 			<key>plainText</key>
 			<string>*%|*</string>
 			<key>snippetType</key>
@@ -59,7 +59,7 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,,mdf</string>
+			<string>xmdf</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -68,20 +68,22 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string>Footnote</string>
+			<key>lastUsed</key>
+			<date>2013-04-10T13:49:51Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-07T18:34:08Z</date>
+			<date>2013-05-10T01:30:43Z</date>
 			<key>plainText</key>
 			<string>[^%|]</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>A8DCE800-BBAD-403C-8E37-707F3A478877</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,,mdc</string>
+			<string>xmdc</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -91,21 +93,21 @@
 			<key>label</key>
 			<string>Link from Clipboard</string>
 			<key>lastUsed</key>
-			<date>2013-04-07T22:50:29Z</date>
+			<date>2013-04-09T21:13:17Z</date>
 			<key>modificationDate</key>
-			<date>2013-04-07T22:51:06Z</date>
+			<date>2013-05-10T01:30:46Z</date>
 			<key>plainText</key>
 			<string>[%|](%clipboard)</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>3</integer>
 			<key>uuidString</key>
 			<string>557DC4E7-66D0-4163-A98D-B97B43490980</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,,mds</string>
+			<string>xmds</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -115,7 +117,7 @@
 			<key>label</key>
 			<string>Image from Clipboard (src)</string>
 			<key>modificationDate</key>
-			<date>2013-04-07T22:51:08Z</date>
+			<date>2013-05-10T01:30:49Z</date>
 			<key>plainText</key>
 			<string>![%|](%clipboard)</string>
 			<key>snippetType</key>
@@ -127,7 +129,7 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,,mdb</string>
+			<string>xmdb</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -137,7 +139,7 @@
 			<key>label</key>
 			<string>Bold</string>
 			<key>modificationDate</key>
-			<date>2013-04-07T18:34:19Z</date>
+			<date>2013-05-10T01:30:52Z</date>
 			<key>plainText</key>
 			<string>**%|**</string>
 			<key>snippetType</key>
@@ -149,7 +151,7 @@
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>,,mde</string>
+			<string>xmde</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -159,7 +161,7 @@
 			<key>label</key>
 			<string>Italic (em)</string>
 			<key>modificationDate</key>
-			<date>2013-04-07T18:34:25Z</date>
+			<date>2013-05-10T01:30:57Z</date>
 			<key>plainText</key>
 			<string>*%|*</string>
 			<key>snippetType</key>
